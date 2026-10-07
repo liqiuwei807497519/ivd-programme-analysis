@@ -1,0 +1,14 @@
+{
+  "schema": "CODE_ONLY_RELEASE_ATTRIBUTION_AND_ACCESS_V1",
+  "project_owned_code_license": "MIT; LICENSE_CODE_MIT.txt",
+  "licence_scope": "Original project-authored software and documentation only; not third-party libraries, articles, datasets, images or private material",
+  "included_study_counts_predictions_truth_checkpoints_or_medical_records": false,
+  "synthetic_fixtures": "Original tests generate artificial arrays and temporary capsules; these are not observed study data",
+  "upstream_public_study_records_not_redistributed": [
+    "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE216511",
+    "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE237308"
+  ],
+  "public_access_is_not_a_blanket_redistribution_licence": true,
+  "third_party_dependencies": "Installed from upstream distributions and retain their own notices/licenses; no library source or runtime binary is bundled",
+  "public_repository_deposit_or_DOI_asserted": false
+}
